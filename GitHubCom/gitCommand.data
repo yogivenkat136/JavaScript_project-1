@@ -1,0 +1,4 @@
+Get Into Git : git init ;
+
+git remote add origin https://github.com/yogivenkat136/JavaScript_project-1.git;
+
